@@ -125,6 +125,9 @@
   <ItemGroup>
     <ClCompile Include="CPP_03.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SimpleVector.hpp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
